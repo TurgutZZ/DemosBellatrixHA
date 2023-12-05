@@ -20,5 +20,6 @@ public class CartStepdefs {
 
     @Then("the product {string} should be in Cart")
     public void theProductShouldBeInCart(String arg0) {
+
     }
 }
